@@ -6,6 +6,7 @@ Release:	1
 License:	GPL
 Group:		X11/Applications
 Source0:	http://www.devhelp.net/books/books/pong.tar.gz
+# Source0-md5:	ecb7a53fb764d261fe79fe2f8e604e94
 URL:		http://www.devhelp.net/
 Requires:	devhelp
 BuildArch:	noarch
