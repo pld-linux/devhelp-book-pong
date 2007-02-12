@@ -1,5 +1,5 @@
 Summary:	DevHelp book: pong
-Summary(pl.UTF-8):   Książka do DevHelpa o pongu
+Summary(pl.UTF-8):	Książka do DevHelpa o pongu
 Name:		devhelp-book-pong
 Version:	1.0
 Release:	1
